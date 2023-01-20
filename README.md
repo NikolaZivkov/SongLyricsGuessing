@@ -1,2 +1,2 @@
 # SongLyricsGuessing
-Program gde se pogadjaju reči u pesmi.
+Program gde se pogadjaju reči u pesmi. C# - Windows Forms
